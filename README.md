@@ -1,2 +1,2 @@
 # GNNs
-Research in Graph Neural Networks
+Try coding in Graph Neural Networks
